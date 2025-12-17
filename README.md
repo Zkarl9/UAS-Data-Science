@@ -4,7 +4,7 @@
 
 ## 👤 Informasi
 - **Nama:** [Haikal Azzrial Akbar]  
-- **Repo:** [URL GitHub Anda]  
+- **Repo:** [https://github.com/Zkarl9/UAS-Data-Science.git]  
 - **Video:** [...]  
 
 ---
